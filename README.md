@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManuelMatancero
 - 👀 I’m interested in learn new skills in software development
 - 🌱 I’m currently learning java and JavaScript
-- 💞️ I’m looking to collaborate on open source projects around the world
+- 💞️ I’m looking for a job
 - 📫 How to reach me (20210785@itla.edu.do)
 
 <!---
